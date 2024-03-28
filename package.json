@@ -1,0 +1,19 @@
+{
+  "name": "aqsa5-cli-number-guessing-game",
+  "version": "1.0.0",
+  "description": "This is CLI Number Guessing Game",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
